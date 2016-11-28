@@ -1,4 +1,5 @@
 estudiar Entornos es divertido <intro>
 Entornos la da un profesor muy joven y apuesto <intro>
 La lluvia en Valencia no la predice ninguna ciencia <intro>
-Quien no haya visto el padrino que se coma un pepino
+Quien no haya visto el padrino que se coma un pepino <intro>
+Si sucede, puede pasar <intro>
